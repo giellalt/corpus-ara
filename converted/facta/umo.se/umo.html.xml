@@ -1,0 +1,63 @@
+<document xml:lang="ara" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>212</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="ara"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/UMO</origFileName>
+    <parallel_text xml:lang="eng" location="about-umo.html"/>
+    <parallel_text xml:lang="fin" location="umosta.html"/>
+    <parallel_text xml:lang="rus" location="o-umo.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">(arabiska) UMOعن</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">(arabiska) UMOعن</p>
+    <p xml:lang="swe">اضغط هنا  للترجمة</p>
+    <p xml:lang="swe">النسخة المترجمة من UMO تفتح في نافذة جديدة</p>
+    <p xml:lang="swe">UMO     هی عیاده وطنیه للشباب ما بین ١٣  - ٢٥  عاما علی الشبکه الالکترونیه</p>
+    <p xml:lang="swe">الهدف من الموقع هوتسهیل الحصول علی المعلومات ذات الصله و العلاقه المباشره</p>
+    <p xml:lang="swe">و المضمونه عن الجنس واﻠﺼﺤﻪ  والعلاقات.</p>
+    <p xml:lang="swe">UMO    تعمل علی توفیر الشروط المتساویه و توسیع مجال التصرف للشباب</p>
+    <p xml:lang="swe">UMO   ترغب فی اعطاء المعلومات وفرص للتفکیر حتی یتمکن الشباب من التأثیر</p>
+    <p xml:lang="swe">علی وضعهم فی البیت٬ فی   علاقاتهم٬ فی  المدرسه اوفی العمل.</p>
+    <p xml:lang="swe">عن طریق معرفة الشباب لحقوقهم وواجباتهم تزداد امکانیاتهم فی إتخاذ القرارات  التی  یرغبونها</p>
+    <p xml:lang="swe">وتهدف إلی ان یشعر الجمیع و بغض النظر عن هویتهم بأن هذا الموقع هو موقعهم</p>
+    <p xml:lang="swe">UMO تطرح المفاهیم السائده للمسائله والنقاش وتولی اهمیه قصوی</p>
+    <p xml:lang="swe">لان یکون الوصول  ٳلی الموقع   و استعماله وفی متناول الجمیع .</p>
+    <p xml:lang="swe">لدینا موظف مختص فی مجال استعمال الموقع.</p>
+    <p xml:lang="swe">و التی هی الجهه الوطنیه الوحیده فی مجال تقدیم المعلومات عن الرعایه الطبیه و الخدمات الصحیه علی الشبکه الالکترونیه.</p>
+    <p xml:lang="swe">من قِبل ٳدارة الشٶون الاجتماعیه بطلب من وزارة الاندماج و المساواه  UMO   تمّ تمویل</p>
+    <p xml:lang="swe">وقد تم تطویرها بالتعاون مع شباب السوید٬عیادات الشباب فی الدوله الرعایه الصحیه٬</p>
+    <p xml:lang="swe">فی المدارس٬المنظمات المهتمه و مٶسسات اخری تعمل مع الشباب.</p>
+    <p xml:lang="swe">UMO  فی الوقت الحالی لا توجد ترجمه للمعلومات الموجوده فی</p>
+    <p xml:lang="swe">للحصول علی ترجمه تقریبیه   Google   ولکن یمکنکم استخدام</p>
+  </body>
+</document>
