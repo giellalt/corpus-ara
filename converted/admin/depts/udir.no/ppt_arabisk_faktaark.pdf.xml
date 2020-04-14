@@ -1,67 +1,27 @@
-<document xml:lang="ara" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>555</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="ara"/>
-    </multilingual>
-    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_arabisk_faktaark.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
-    <parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/>
-    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
-    <parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/>
-    <parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
-    <parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/>
-    <parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
-    <parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
-    <parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/>
-    <parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/>
-    <parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
-    <parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob"><em type="bold">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻣ </em></p>
-    <p xml:lang="nob"><em type="bold">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ (PPT) </em></p>
-    <p xml:lang="nob">ﺔﻳﺪﻠﺑ ﺕﺎﻣﺪﺧ ﻲﻫ (ﻭﺃ  ﻊﻤﺠﺘﻟ ﺔﻌﺑﺎﺗPP-tjenesten   ﻭﺃ  PPT  ﻑﺮﺣﺄﺑ ﺓﺩﺎﻋ ﺓﺮﺼﺘﺨﻤﻟﺍ) ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ)</p>
-    <p xml:lang="nob">ﺕﺎﻳﺪﻠﺑ.ﺔﻈﻓﺎﺤﻤﻟﺍ ﻌﺿﻭ ﻥﺍﻭ ﺍ ﻢﻫﻮﻤﻨﺑ ﻥﻭﺪﻬﺠﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺠﺿﺎﻨﻟﺍﻭ ﺏﺎﺒﺸﻟﺍﻭ ﺩﻻﻭﻷﺍ ﺕﺎﻣﺪﺨﻟﺍ ﺪﻋﺎﺴﺘﺳ.ﺐﻌﺻ ﻲﻤﻴﻠﻌﺘﻟﺍ ﻢﻬ</p>
-    <p xml:lang="nob">ﻞﻴﻬﺴﺘﻟ ﺕﺍﺩﺎﺷﺭﻹﺍﻭ ﺢﺋﺎﺼﻨﻟﺎﺑ ﺱﺭﺍﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺽﺎﻳﺭ ﻼﺜﻣ (ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ) PP-tjeneste ﺩﻭﺰﺗ ﻥﺃ ﺐﺠﻳ  .ﺕﺍﺩﺎﺷﺭﻹﺍ ﻩﺬﻬﻟ ﻥﻮﺟﺎﺘﺤﻳ ﻦﻳﺬﻟﺍ ﺬﻴﻣﻼﺘﻟﺍ ﻭﺃ ﺩﻻﻭﻷﺍ ﺭﻮﻣﺃ</p>
-    <p xml:lang="nob">ﺘﻠﻟ ﻞﻀﻓﺍ ﻮﻫ ﺎﻤﻟ ﻢﻴﻠﻌﺘﻟﺍ ﻦﻴﺴﺤﺘﻟ ﺱﺭﺍﺪﻤﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻢﻋﺪﺗ ﻥﺃ ﺐﺠﻳ.ﺔﺻﺎﺨﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﻱﻭﺫ ﺬﻴﻣﻼ</p>
-    <p xml:lang="nob">.ﺮﺴﻟﺍ ﻥﺎﻤﺘﻛ ﺐﺟﺍﻮﻟ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻊﻀﺨﺗ  ﺡﺮﺼﻳ ﻻﻭ ﺔﻴﻨﻠﻌﻟﺍ ﻦﻣ ﺔﻴﻔﻌﻣ ﻥﻮﻜﺗ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻥﺇ ﺪﻟﻮﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻤﻟﺎﺑ ﻅﺎﻔﺘﺣﻻﺍ ﻢﺘﻳ .ﻦﻳﺪﻟﺍﻮﻟﺍ ﺔﻘﻓﺍﻮﻣ ﻥﻭﺩ ﻥﺎﻛ ﻱﻷ ﺎﻬﻨﻋﻭﺃ  ﻭﺃ ﺔﺻﺎﺧ ﺕﺎﻔﻠﻣ ﻲﻓ ﺬﻴﻤﻠﺘﻟﺍﺕﺍﺪﻠﺠﻣ  ﺔﻌﺿﺎﺧﻴﻠﻌﺘﻟ.ﺔﻴﺗﺎﻣﻮﻠﻌﻤﻟﺍ ﺔﺒﻗﺍﺮﻣ ﺕﺎﻤ</p>
-    <p xml:lang="nob"><em type="bold"> ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ PP-tjenesten ﻪﺑ ﻡﻮﻘﺗ ﻱﺬﻟﺍ ﺎﻣ </em></p>
-    <p xml:lang="nob">.ﻦﻴﺠﺿﺎﻨﻟﺍﻭ ﺏﺎﺒﺸﻟﺍﻭ ﺩﻻﻭﻷﺎﺑ ﺔﻄﺒﺗﺮﻤﻟﺍ ﺕﺎﻳﺪﺤﺘﻟﺍ ﻦﻋ ﺕﺍﺩﺎﺷﺭﻹﺍﻭ ﺢﺋﺎﺼﻨﻟﺍ ءﺎﻄﻋﺇﻭ ﺔﺳﺍﺭﺪﺑ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﻮﻘﺗ • ﺔﻐﻠﻟﺍﻭ ﻖﻄﻨﻟﺍ ﺕﺎﺑﻮﻌﺻ</p>
-    <p type="listitem" xml:lang="nob">• ﺳﺍﺭﺪﻟﺍ ﺩﺍﻮﻤﻟﺍﻭ ﻢﻠﻌﺘﻠﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺔﻣﺎﻌﻟﺍ ﺕﺎﺑﻮﻌﺼﻟﺍﺔﻴ</p>
-    <p type="listitem" xml:lang="nob">• ﺔﺑﺎﺘﻜﻟﺍﻭ ﺓءﺍﺮﻘﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺰﻴﻛﺮﺘﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺔﻴﻋﺎﻤﺘﺟﺍﻭ ﺔﻴﻔﻁﺎﻋ ﺕﺎﺑﻮﻌﺻ • ﻙﻮﻠﺴﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺮﻈﻨﻟﺍﻭ ﻊﻤﺴﻟﺍ ﺕﺎﺑﻮﻌﺻ</p>
-    <p xml:lang="nob"><em type="bold"> ) ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ؟(PP-tjenesten ﻒﻴﻛ ﻚﻨﻜﻤﻳ ﺏ ﻝﺎﺼﺗﻻﺍ ﻱﻭﺬﻛ ﺖﻧﺃ </em></p>
-    <p xml:lang="nob">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺎﺑ ﻝﺎﺼﺗﻻﺍ ﻞﺒﻗ ﻚﻴﻠﻋ ﺐﺠﻳ ﻥﺃ ﻟﺍ ﺰﻛﺮﻤﻟﺍ ﻊﻣ ﻢﻠﻜﺘﺗ ﻲﺤﺼﻭﺃ  ﺔﺿﻭﺭﻝﺎﻔﻁﻷﺍ ﻭﺃ  ﻚﻘﻠﻗ ﻦﻋ ﺔﺳﺭﺪﻤﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺎﺑ ﻝﺎﺼﺗﻻﺍ ﺮﻤﻌﻟﺍ ﻦﻣ 15 ﻝﺃ ﻕﻮﻓ ﻢﻫ ﻦﻳﺬﻟﺍ ﺬﻴﻣﻼﺘﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﻙﺪﻟﻮﻟ.ﺔﻴﺳﺎﺳﻷﺍ ﺔﺳﺍﺭﺪﻟﺍ ﺔﻠﺣﺮﻣ ﺔﺳﺍﺭﺪﺑ ﻥﻮﺒﻏﺮﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺠﺿﺎﻨﻟﺍ ﺓﺪﻋﺎﺴﻣ ﺎﻀﻳﺃ ﺔﻴﺴﻔﻨﻟﺍ</p>
-    <p xml:lang="nob">ﻷﺍ ﺔﺿﻭﺭ) ﺪﻫﺎﻌﻤﻟﺍﻭ ﺩﺍﺮﻓﻷﺍ ﻥﺎﻜﻣﺈﺑ ﺕﺎﻣﺪﺨﻟﺍ ﻯﺪﻟ ﺕﺍﺩﺎﺷﺭﻹﺍ ﺐﻠﻁﻭ ﻲﻨﻠﻋ ﺮﻴﻏ ﻞﻜﺸﺑ ﻝﺎﺼﺗﻻﺍ (ﻦﻳﺮﺧﺁﻭ ﺔﺳﺭﺪﻤﻟﺍﻭ ﻝﺎﻔﻁ.ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ</p>
-    <p xml:lang="nob">ﺕﺎﻣﺪﺨﻟﺍ ﻞﺒﻗ ﻦﻣ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﺓﺭﻭﺮﺿ ﻙﺎﻨﻫ ﻥﺎﻛ ﺍﺫﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻠﻟ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻞﻳﻮﺤﺗ ﻥﺎﻜﻣﻹﺎﺑ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻰﻟﺇ ﺓﺩﺎﻋ ﻞﻳﻮﺤﺘﻟﺍ ﻢﺘﻳ .ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺔﺻﺎﺨﻟﺍ ﺖﻧﺮﺘﻧﻷﺍ ﺔﺤﻔﺻ ﺮﻈﻧﺍ .ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﺎﻤﺘﺳﺍ ﻝﺎﻤﻌﺘﺳﺎﺑ ﺔﻴﺴﻔﻨﻟﺍ.ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﺎﻤﺘﺳﺍ ءﻲﻠﻤﻟ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺔﺳﺭﺪﻤﻟﺍ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺮﺑ ﻞﺼﺗﺍ .ﺔﻈﻓﺎﺤﻤﻟﺍ ﺕﺎﻳﺪﻠﺑ ﻊﻤﺠﺗ ﻭﺃ ﺔﻳﺪﻠﺒﻟﺎﺑ</p>
-    <p xml:lang="nob">:ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻰﻟﺇ ﻞﻳﻮﺤﺘﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻦﻳﺬﻟﺍ ﻦﻳﺮﺧﻵﺍ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭﻦﻴﺠﺿﺎﻨﻠﻟ ﻢﻴﻠﻌﺘﻟﺍﻭ ﺔﺳﺭﺪﻤﻟﺍ ،</p>
-    <p type="listitem" xml:lang="nob">•  ﻝﺃ ﻥﻭﺩ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻥﺎﻛ ﺍﺫﺍ ﻱﻭﺬﻟﺍ ﺔﻘﻓﺍﻮﻣ ﺪﻌﺑ ﻰﻔﺸﺘﺴﻤﻟﺍﻭ ﻒﺻﻮﺘﺴﻤﻟﺍ ﺎﻣﺎﻋ</p>
-    <p xml:lang="nob">ﺲﻳﺭﺪﺗ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺬﻴﻤﻠﺘﻟﺍ ﻥﺎﻛ ﺎﻣ ﺍﺫﺍ ﻰﻟﺇ ﻞﺻﻮﺘﻠﻟ ﺔﻳﺭﻭﺮﻀﻟﺍ ﺕﺎﺳﺍﺭﺪﻟﺎﺑ ﺔﺳﺭﺪﻤﻟﺍ ﻡﻮﻘﺗ ﻥﺎﺑ ﻁﺍﺮﺘﺷﻻﺍ ﻱﻭﺬﻟﺍ ﻭﺃ ﺬﻴﻤﻠﺘﻟﺍ ﻥﺎﻜﻣﺈﺑﺍ ﻪﺟﺎﺘﺤﻳ ﻱﺬﻟﺍ ﺲﻳﺭﺪﺘﻟﺍ ﻉﻮﻧ ﺬﺌﻨﻴﺣﻭ ﺹﺎﺧ.ﺬﻴﻤﻠﺘﻟ</p>
-    <p xml:lang="nob">1</p>
-    <p xml:lang="nob"><em type="bold"> )ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ؟(PP-tjenesten ﻞﻤﻋ ﺔﻌﻴﺒﻁ </em> ﺪﻟﻮﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍﻭ ﺕﺎﺒﻠﻄﺘﻣﻭ ﺔﻣﺪﻘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﻞﻴﻬﺴﺘﻟ ﺱﺭﺍﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺽﺎﻳﺭ ﻼﺜﻣ ﻊﻣ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﻭﺎﻌﺘﺗﻯﺪﻟ ﺎﻳﺎﻀﻘﻟﺍ ﺔﺳﺍﺭﺩ ﻢﻴﺴﻘﺗ ﻥﺎﻜﻣﻹﺎﺑ .ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ  ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ:ﻞﺣﺍﺮﻣ ﺔﺛﻼﺛ ﻰﻟﺇ </p>
-    <p xml:lang="nob">.<em type="bold"> </em>ﺮﻴﻀﺤﺘﻟﺍ <em type="italic"> </em> ﻞﻳﻮﺤﺘﻟ ﺎﻬﻣﻼﺘﺳﺍ ﻯﺪﻟ ﺓﺩﺎﻋ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﻮﻘﺗﻭﺃ  ﻉﺎﻤﺘﺳﻻﺎﺑ ﻎﻴﻠﺒﺗﻰﻟﺇ ﻱﺬﻟﺍ ﺎﻣ ﻱﻭﺬﻟﺍ  ﻊﻣ ﻥﻭﺎﻌﺘﻟﺎﺑﻥﻮﻜﺗ .ﻪﺑ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺔﺟﺎﺤﺑ ﺔﺳﺭﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ  ﺔﻠﻣﺎﻛ ﺓﺭﻮﺻ ،ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ،ﺎﻬﺴﻔﻨﻟﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍﻭ ﺕﺎﺒﻠﻄﺘﻤﻟﺍ ﻦﻋ ﻲﻓ (ﻊﺿﻮﻟﺍ ﺔﺳﺍﺭﺩ) ﺮﻴﻀﺤﺘﻟﺍ ﻢﺘﻳ .ﺕﺍءﺎﻘﻠﻟﺍﻭ ﺚﻳﺩﺎﺣﻻﺍ ﻝﻼﺧ ﻦﻣ ﺬﻴ ﺰﻛﺍﺮﻣ ﻭﺃ ﺔﺳﺭﺪﻤﻟﺍ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ.  </p>
-    <p xml:lang="nob">. ﻢﻴﻴﻘﺗﻲﺋﺎﺼﺧﻷﺍﺢﺋﺎﺼﻨﻟﺍ ﻢﻳﺪﻘﺗ / (ﺔﺳﺍﺭﺪﻟﺍ) ﺮﻴﻀﺤﺘﻟﺍ ﺔﺠﻴﺘﻧ ﻦﻣ ﺎﻗﻼﻄﻧﺍ  ﺮﻳﺮﻘﺗ) ﺔﻴﻀﻘﻟﺍ ﻢﻴﻴﻘﺘﺑ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻞﺒﻗ ﻦﻣ ﻲﺋﺎﺼﺧﻷﺍ ﻡﻮﻘﻳ .ﺬﻴﻤﻠﺘﻟﺍ ﻭﻻ ﺩﻮﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ ﻦﻣ ﺎﻗﻼﻄﻧﺍ ﺲﻳﺭﺪﺘﻟﺍ ﺪﻬﻌﻣ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭ ﻲﻓ ﻞﻴﻬﺴﺘﻟﺎﺑ ﺢﺟﺭﻷﺍ ﻰﻠﻋ ﺢﺼﻨﻳﻭ (ﻲﻄﺧ ﺔﻳﻮﺑﺮﺗ ﺓﺪﻋﺎﺴﻣ ﻲﻫ ﺔﻳﺩﺎﻌﻟﺍ ﻢﻴﻴﻘﺘﻟﺍ ﺕﻻﺎﺠﻣ ﻥﻮﻜﺗ .ﻲﺋﺎﺼﺧﻷﺍ ﺔﻄﺳﺍﻮﺑ ﺢﺋﺎﺼﻨﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﺪﻘﺗﻴﻣﻼﺘﻠﻟ ﺹﺎﺨﻟﺍ ﺲﻳﺭﺪﺘﻟﺍﻭ ﻲﻣﺍﺰﻟﻹﺍ ﺔﺳﺍﺭﺪﻟﺍ ﻦﺳ ﻲﻓ ﺪﻟﻮﻠﻟ ﺔﺻﺎﺧ.ﺬ</p>
-    <p xml:lang="nob">.ﺔﻌﺑﺎﺘﻤﻟﺍ  ﻥﺎﻜﻣﺈﺑ  ﺢﺋﺎﺼﻨﻟﺍ ﻝﻼﺧ ﻦﻣ ﺔﻴﻀﻘﻟﺍ ﺔﻌﺑﺎﺘﻣ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍﺕﺍﺩﺎﺷﺭﻹﺍﻭ  ﻱﻭﺬﻠﻟﻭﺃ  ﺔﺿﻭﺭ ﻲﻔﻅﻮﻣﻝﺎﻔﻁﻷﺍ ﺓﺪﻋﺎﺴﻣ ﺚﻳﺩﺎﺣﺍ ﺕﺍءﺎﻘﻟ ﺪﻘﻋ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﺔﺳﺭﺪﻤﻟﺍ ﻲﻓ ﻦﻴﺳﺭﺪﻤﻟﺍﻭ  ﺎﻬﻟﻼﺧ ﺍﻮﻤﻴﻘﻳﻭ ﺬﻴﻤﻠﺗ ﻞﻜﻟ.ﺔﻘﺣﻼﻟﺍ ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﻭﺮﺿ</p>
-    <p xml:lang="nob">:ﺔﻴﻟﺎﺘﻟﺍ ﺔﻴﻧﻮﻧﺎﻘﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻝﻼﺧ ﻦﻣ ﻢﻴﻠﻌﺘﻟﺍ ﻥﻮﻧﺎﻗ ﻰﻠﻋ (ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ) PP-tjenesten ﻞﻤﻋ ﺰﻜﺗﺮﻳ <em type="bold"> </em> ﺓﺩﺎﻤﻟﺍ- ﺹﺎﺨﻟﺍ ﻢﻴﻠﻌﺘﻟﺍ ﻖﺣ ﻦﻣ<em type="italic">  </em>ﺓﺩﺎﻤﻟﺍ - ﻲﺋﺎﺼﺧﻷﺍ ﻢﻴﻴﻘﺗ  ﺓﺩﺎﻤﻟﺍ- ﺹﺎﺨﻟﺍ ﻢﻴﻠﻌﺘﻟﺍ ﺭﺍﺮﻘﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺔﻴﻀﻘﻟﺍ ﺔﺳﺍﺭﺩ  ﺓﺩﺎﻤﻟﺍ- ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ  ﺓﺩﺎﻤﻟﺍ- ﺪﻋﺎﺴﻤﻟﺍ ﻲﻣﺍﺰﻟﻹﺍ ﺔﺳﺍﺭﺪﻟﺍ ﻦﺴﻟ ﺔﺻﺎﺨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺓ<em type="italic"> </em></p>
-    <p xml:lang="nob">2</p>
-  </body>
-</document>
+<document xml:lang="ara" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>555</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="ara"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_arabisk_faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob"><em type="bold">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻣ </em></p>
+<p xml:lang="nob"><em type="bold">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ (PPT) </em></p>
+<p xml:lang="nob">ﺔﻳﺪﻠﺑ ﺕﺎﻣﺪﺧ ﻲﻫ (ﻭﺃ  ﻊﻤﺠﺘﻟ ﺔﻌﺑﺎﺗPP-tjenesten   ﻭﺃ  PPT  ﻑﺮﺣﺄﺑ ﺓﺩﺎﻋ ﺓﺮﺼﺘﺨﻤﻟﺍ) ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ)</p>
+<p xml:lang="nob">ﺕﺎﻳﺪﻠﺑ.ﺔﻈﻓﺎﺤﻤﻟﺍ ﻌﺿﻭ ﻥﺍﻭ ﺍ ﻢﻫﻮﻤﻨﺑ ﻥﻭﺪﻬﺠﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺠﺿﺎﻨﻟﺍﻭ ﺏﺎﺒﺸﻟﺍﻭ ﺩﻻﻭﻷﺍ ﺕﺎﻣﺪﺨﻟﺍ ﺪﻋﺎﺴﺘﺳ.ﺐﻌﺻ ﻲﻤﻴﻠﻌﺘﻟﺍ ﻢﻬ</p>
+<p xml:lang="nob">ﻞﻴﻬﺴﺘﻟ ﺕﺍﺩﺎﺷﺭﻹﺍﻭ ﺢﺋﺎﺼﻨﻟﺎﺑ ﺱﺭﺍﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺽﺎﻳﺭ ﻼﺜﻣ (ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ) PP-tjeneste ﺩﻭﺰﺗ ﻥﺃ ﺐﺠﻳ  .ﺕﺍﺩﺎﺷﺭﻹﺍ ﻩﺬﻬﻟ ﻥﻮﺟﺎﺘﺤﻳ ﻦﻳﺬﻟﺍ ﺬﻴﻣﻼﺘﻟﺍ ﻭﺃ ﺩﻻﻭﻷﺍ ﺭﻮﻣﺃ</p>
+<p xml:lang="nob">ﺘﻠﻟ ﻞﻀﻓﺍ ﻮﻫ ﺎﻤﻟ ﻢﻴﻠﻌﺘﻟﺍ ﻦﻴﺴﺤﺘﻟ ﺱﺭﺍﺪﻤﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻢﻋﺪﺗ ﻥﺃ ﺐﺠﻳ.ﺔﺻﺎﺨﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﻱﻭﺫ ﺬﻴﻣﻼ</p>
+<p xml:lang="nob">.ﺮﺴﻟﺍ ﻥﺎﻤﺘﻛ ﺐﺟﺍﻮﻟ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻊﻀﺨﺗ  ﺡﺮﺼﻳ ﻻﻭ ﺔﻴﻨﻠﻌﻟﺍ ﻦﻣ ﺔﻴﻔﻌﻣ ﻥﻮﻜﺗ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻥﺇ ﺪﻟﻮﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻤﻟﺎﺑ ﻅﺎﻔﺘﺣﻻﺍ ﻢﺘﻳ .ﻦﻳﺪﻟﺍﻮﻟﺍ ﺔﻘﻓﺍﻮﻣ ﻥﻭﺩ ﻥﺎﻛ ﻱﻷ ﺎﻬﻨﻋﻭﺃ  ﻭﺃ ﺔﺻﺎﺧ ﺕﺎﻔﻠﻣ ﻲﻓ ﺬﻴﻤﻠﺘﻟﺍﺕﺍﺪﻠﺠﻣ  ﺔﻌﺿﺎﺧﻴﻠﻌﺘﻟ.ﺔﻴﺗﺎﻣﻮﻠﻌﻤﻟﺍ ﺔﺒﻗﺍﺮﻣ ﺕﺎﻤ</p>
+<p xml:lang="nob"><em type="bold"> ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ PP-tjenesten ﻪﺑ ﻡﻮﻘﺗ ﻱﺬﻟﺍ ﺎﻣ </em></p>
+<p xml:lang="nob">.ﻦﻴﺠﺿﺎﻨﻟﺍﻭ ﺏﺎﺒﺸﻟﺍﻭ ﺩﻻﻭﻷﺎﺑ ﺔﻄﺒﺗﺮﻤﻟﺍ ﺕﺎﻳﺪﺤﺘﻟﺍ ﻦﻋ ﺕﺍﺩﺎﺷﺭﻹﺍﻭ ﺢﺋﺎﺼﻨﻟﺍ ءﺎﻄﻋﺇﻭ ﺔﺳﺍﺭﺪﺑ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﻮﻘﺗ • ﺔﻐﻠﻟﺍﻭ ﻖﻄﻨﻟﺍ ﺕﺎﺑﻮﻌﺻ</p>
+<p type="listitem" xml:lang="nob">• ﺳﺍﺭﺪﻟﺍ ﺩﺍﻮﻤﻟﺍﻭ ﻢﻠﻌﺘﻠﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺔﻣﺎﻌﻟﺍ ﺕﺎﺑﻮﻌﺼﻟﺍﺔﻴ</p>
+<p type="listitem" xml:lang="nob">• ﺔﺑﺎﺘﻜﻟﺍﻭ ﺓءﺍﺮﻘﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺰﻴﻛﺮﺘﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺔﻴﻋﺎﻤﺘﺟﺍﻭ ﺔﻴﻔﻁﺎﻋ ﺕﺎﺑﻮﻌﺻ • ﻙﻮﻠﺴﻟﺍ ﺕﺎﺑﻮﻌﺻ • ﺮﻈﻨﻟﺍﻭ ﻊﻤﺴﻟﺍ ﺕﺎﺑﻮﻌﺻ</p>
+<p xml:lang="nob"><em type="bold"> ) ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ؟(PP-tjenesten ﻒﻴﻛ ﻚﻨﻜﻤﻳ ﺏ ﻝﺎﺼﺗﻻﺍ ﻱﻭﺬﻛ ﺖﻧﺃ </em></p>
+<p xml:lang="nob">ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺎﺑ ﻝﺎﺼﺗﻻﺍ ﻞﺒﻗ ﻚﻴﻠﻋ ﺐﺠﻳ ﻥﺃ ﻟﺍ ﺰﻛﺮﻤﻟﺍ ﻊﻣ ﻢﻠﻜﺘﺗ ﻲﺤﺼﻭﺃ  ﺔﺿﻭﺭﻝﺎﻔﻁﻷﺍ ﻭﺃ  ﻚﻘﻠﻗ ﻦﻋ ﺔﺳﺭﺪﻤﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺎﺑ ﻝﺎﺼﺗﻻﺍ ﺮﻤﻌﻟﺍ ﻦﻣ 15 ﻝﺃ ﻕﻮﻓ ﻢﻫ ﻦﻳﺬﻟﺍ ﺬﻴﻣﻼﺘﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﻙﺪﻟﻮﻟ.ﺔﻴﺳﺎﺳﻷﺍ ﺔﺳﺍﺭﺪﻟﺍ ﺔﻠﺣﺮﻣ ﺔﺳﺍﺭﺪﺑ ﻥﻮﺒﻏﺮﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺠﺿﺎﻨﻟﺍ ﺓﺪﻋﺎﺴﻣ ﺎﻀﻳﺃ ﺔﻴﺴﻔﻨﻟﺍ</p>
+<p xml:lang="nob">ﻷﺍ ﺔﺿﻭﺭ) ﺪﻫﺎﻌﻤﻟﺍﻭ ﺩﺍﺮﻓﻷﺍ ﻥﺎﻜﻣﺈﺑ ﺕﺎﻣﺪﺨﻟﺍ ﻯﺪﻟ ﺕﺍﺩﺎﺷﺭﻹﺍ ﺐﻠﻁﻭ ﻲﻨﻠﻋ ﺮﻴﻏ ﻞﻜﺸﺑ ﻝﺎﺼﺗﻻﺍ (ﻦﻳﺮﺧﺁﻭ ﺔﺳﺭﺪﻤﻟﺍﻭ ﻝﺎﻔﻁ.ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ</p>
+<p xml:lang="nob">ﺕﺎﻣﺪﺨﻟﺍ ﻞﺒﻗ ﻦﻣ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﺓﺭﻭﺮﺿ ﻙﺎﻨﻫ ﻥﺎﻛ ﺍﺫﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻠﻟ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻞﻳﻮﺤﺗ ﻥﺎﻜﻣﻹﺎﺑ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻰﻟﺇ ﺓﺩﺎﻋ ﻞﻳﻮﺤﺘﻟﺍ ﻢﺘﻳ .ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺔﺻﺎﺨﻟﺍ ﺖﻧﺮﺘﻧﻷﺍ ﺔﺤﻔﺻ ﺮﻈﻧﺍ .ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﺎﻤﺘﺳﺍ ﻝﺎﻤﻌﺘﺳﺎﺑ ﺔﻴﺴﻔﻨﻟﺍ.ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﺎﻤﺘﺳﺍ ءﻲﻠﻤﻟ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺔﺳﺭﺪﻤﻟﺍ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺮﺑ ﻞﺼﺗﺍ .ﺔﻈﻓﺎﺤﻤﻟﺍ ﺕﺎﻳﺪﻠﺑ ﻊﻤﺠﺗ ﻭﺃ ﺔﻳﺪﻠﺒﻟﺎﺑ</p>
+<p xml:lang="nob">:ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻰﻟﺇ ﻞﻳﻮﺤﺘﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻦﻳﺬﻟﺍ ﻦﻳﺮﺧﻵﺍ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭﻦﻴﺠﺿﺎﻨﻠﻟ ﻢﻴﻠﻌﺘﻟﺍﻭ ﺔﺳﺭﺪﻤﻟﺍ ،</p>
+<p type="listitem" xml:lang="nob">•  ﻝﺃ ﻥﻭﺩ ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﻥﺎﻛ ﺍﺫﺍ ﻱﻭﺬﻟﺍ ﺔﻘﻓﺍﻮﻣ ﺪﻌﺑ ﻰﻔﺸﺘﺴﻤﻟﺍﻭ ﻒﺻﻮﺘﺴﻤﻟﺍ ﺎﻣﺎﻋ</p>
+<p xml:lang="nob">ﺲﻳﺭﺪﺗ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺬﻴﻤﻠﺘﻟﺍ ﻥﺎﻛ ﺎﻣ ﺍﺫﺍ ﻰﻟﺇ ﻞﺻﻮﺘﻠﻟ ﺔﻳﺭﻭﺮﻀﻟﺍ ﺕﺎﺳﺍﺭﺪﻟﺎﺑ ﺔﺳﺭﺪﻤﻟﺍ ﻡﻮﻘﺗ ﻥﺎﺑ ﻁﺍﺮﺘﺷﻻﺍ ﻱﻭﺬﻟﺍ ﻭﺃ ﺬﻴﻤﻠﺘﻟﺍ ﻥﺎﻜﻣﺈﺑﺍ ﻪﺟﺎﺘﺤﻳ ﻱﺬﻟﺍ ﺲﻳﺭﺪﺘﻟﺍ ﻉﻮﻧ ﺬﺌﻨﻴﺣﻭ ﺹﺎﺧ.ﺬﻴﻤﻠﺘﻟ</p>
+<p xml:lang="nob">1</p>
+<p xml:lang="nob"><em type="bold"> )ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ؟(PP-tjenesten ﻞﻤﻋ ﺔﻌﻴﺒﻁ </em> ﺪﻟﻮﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍﻭ ﺕﺎﺒﻠﻄﺘﻣﻭ ﺔﻣﺪﻘﻤﻟﺍ ﺽﻭﺮﻌﻟﺍ ﻞﻴﻬﺴﺘﻟ ﺱﺭﺍﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺽﺎﻳﺭ ﻼﺜﻣ ﻊﻣ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﻭﺎﻌﺘﺗﻯﺪﻟ ﺎﻳﺎﻀﻘﻟﺍ ﺔﺳﺍﺭﺩ ﻢﻴﺴﻘﺗ ﻥﺎﻜﻣﻹﺎﺑ .ﺬﻴﻤﻠﺘﻟﺍ ﻭﺃ  ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ:ﻞﺣﺍﺮﻣ ﺔﺛﻼﺛ ﻰﻟﺇ </p>
+<p xml:lang="nob">.<em type="bold"> </em>ﺮﻴﻀﺤﺘﻟﺍ <em type="italic"> </em> ﻞﻳﻮﺤﺘﻟ ﺎﻬﻣﻼﺘﺳﺍ ﻯﺪﻟ ﺓﺩﺎﻋ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﻮﻘﺗﻭﺃ  ﻉﺎﻤﺘﺳﻻﺎﺑ ﻎﻴﻠﺒﺗﻰﻟﺇ ﻱﺬﻟﺍ ﺎﻣ ﻱﻭﺬﻟﺍ  ﻊﻣ ﻥﻭﺎﻌﺘﻟﺎﺑﻥﻮﻜﺗ .ﻪﺑ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺔﺟﺎﺤﺑ ﺔﺳﺭﺪﻤﻟﺍﻭ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ  ﺔﻠﻣﺎﻛ ﺓﺭﻮﺻ ،ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ،ﺎﻬﺴﻔﻨﻟﻤﻠﺘﻟﺍ ﻭﺃ ﺪﻟﻮﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍﻭ ﺕﺎﺒﻠﻄﺘﻤﻟﺍ ﻦﻋ ﻲﻓ (ﻊﺿﻮﻟﺍ ﺔﺳﺍﺭﺩ) ﺮﻴﻀﺤﺘﻟﺍ ﻢﺘﻳ .ﺕﺍءﺎﻘﻠﻟﺍﻭ ﺚﻳﺩﺎﺣﻻﺍ ﻝﻼﺧ ﻦﻣ ﺬﻴ ﺰﻛﺍﺮﻣ ﻭﺃ ﺔﺳﺭﺪﻤﻟﺍ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ.  </p>
+<p xml:lang="nob">. ﻢﻴﻴﻘﺗﻲﺋﺎﺼﺧﻷﺍﺢﺋﺎﺼﻨﻟﺍ ﻢﻳﺪﻘﺗ / (ﺔﺳﺍﺭﺪﻟﺍ) ﺮﻴﻀﺤﺘﻟﺍ ﺔﺠﻴﺘﻧ ﻦﻣ ﺎﻗﻼﻄﻧﺍ  ﺮﻳﺮﻘﺗ) ﺔﻴﻀﻘﻟﺍ ﻢﻴﻴﻘﺘﺑ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻞﺒﻗ ﻦﻣ ﻲﺋﺎﺼﺧﻷﺍ ﻡﻮﻘﻳ .ﺬﻴﻤﻠﺘﻟﺍ ﻭﻻ ﺩﻮﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ ﻦﻣ ﺎﻗﻼﻄﻧﺍ ﺲﻳﺭﺪﺘﻟﺍ ﺪﻬﻌﻣ ﻭﺃ ﻝﺎﻔﻁﻷﺍ ﺔﺿﻭﺭ ﻲﻓ ﻞﻴﻬﺴﺘﻟﺎﺑ ﺢﺟﺭﻷﺍ ﻰﻠﻋ ﺢﺼﻨﻳﻭ (ﻲﻄﺧ ﺔﻳﻮﺑﺮﺗ ﺓﺪﻋﺎﺴﻣ ﻲﻫ ﺔﻳﺩﺎﻌﻟﺍ ﻢﻴﻴﻘﺘﻟﺍ ﺕﻻﺎﺠﻣ ﻥﻮﻜﺗ .ﻲﺋﺎﺼﺧﻷﺍ ﺔﻄﺳﺍﻮﺑ ﺢﺋﺎﺼﻨﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﺪﻘﺗﻴﻣﻼﺘﻠﻟ ﺹﺎﺨﻟﺍ ﺲﻳﺭﺪﺘﻟﺍﻭ ﻲﻣﺍﺰﻟﻹﺍ ﺔﺳﺍﺭﺪﻟﺍ ﻦﺳ ﻲﻓ ﺪﻟﻮﻠﻟ ﺔﺻﺎﺧ.ﺬ</p>
+<p xml:lang="nob">.ﺔﻌﺑﺎﺘﻤﻟﺍ  ﻥﺎﻜﻣﺈﺑ  ﺢﺋﺎﺼﻨﻟﺍ ﻝﻼﺧ ﻦﻣ ﺔﻴﻀﻘﻟﺍ ﺔﻌﺑﺎﺘﻣ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍﺕﺍﺩﺎﺷﺭﻹﺍﻭ  ﻱﻭﺬﻠﻟﻭﺃ  ﺔﺿﻭﺭ ﻲﻔﻅﻮﻣﻝﺎﻔﻁﻷﺍ ﺓﺪﻋﺎﺴﻣ ﺚﻳﺩﺎﺣﺍ ﺕﺍءﺎﻘﻟ ﺪﻘﻋ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻥﺎﻜﻣﺈﺑ .ﺔﺳﺭﺪﻤﻟﺍ ﻲﻓ ﻦﻴﺳﺭﺪﻤﻟﺍﻭ  ﺎﻬﻟﻼﺧ ﺍﻮﻤﻴﻘﻳﻭ ﺬﻴﻤﻠﺗ ﻞﻜﻟ.ﺔﻘﺣﻼﻟﺍ ﻞﻳﻮﺤﺘﻟﺍ ﺓﺭﻭﺮﺿ</p>
+<p xml:lang="nob">:ﺔﻴﻟﺎﺘﻟﺍ ﺔﻴﻧﻮﻧﺎﻘﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻝﻼﺧ ﻦﻣ ﻢﻴﻠﻌﺘﻟﺍ ﻥﻮﻧﺎﻗ ﻰﻠﻋ (ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ) PP-tjenesten ﻞﻤﻋ ﺰﻜﺗﺮﻳ <em type="bold"> </em> ﺓﺩﺎﻤﻟﺍ- ﺹﺎﺨﻟﺍ ﻢﻴﻠﻌﺘﻟﺍ ﻖﺣ ﻦﻣ<em type="italic">  </em>ﺓﺩﺎﻤﻟﺍ - ﻲﺋﺎﺼﺧﻷﺍ ﻢﻴﻴﻘﺗ  ﺓﺩﺎﻤﻟﺍ- ﺹﺎﺨﻟﺍ ﻢﻴﻠﻌﺘﻟﺍ ﺭﺍﺮﻘﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺔﻴﻀﻘﻟﺍ ﺔﺳﺍﺭﺩ  ﺓﺩﺎﻤﻟﺍ- ﺔﻴﺴﻔﻨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ  ﺓﺩﺎﻤﻟﺍ- ﺪﻋﺎﺴﻤﻟﺍ ﻲﻣﺍﺰﻟﻹﺍ ﺔﺳﺍﺭﺪﻟﺍ ﻦﺴﻟ ﺔﺻﺎﺨﻟﺍ ﺔﻳﻮﺑﺮﺘﻟﺍ ﺓ<em type="italic"> </em></p>
+<p xml:lang="nob">2</p>
+</body></document>
